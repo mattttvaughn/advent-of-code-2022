@@ -47,8 +47,6 @@ fn main() {
     println!("Pt. 1: {}", visible_count);
     println!("Pt. 2: {}", max_scenic_score);
 
-    
-
 }
 
 // [points] is ordered by order in which they should be compared
